@@ -1,4 +1,4 @@
-package src.module34;
+package module34;
 
 import java.util.ArrayList;
 import java.util.List;

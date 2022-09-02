@@ -1,4 +1,4 @@
-package src.module32;
+package module32;
 import java.util.Scanner;
 import java.util.function.Function;
 

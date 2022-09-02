@@ -1,4 +1,4 @@
-package src.module33;
+package module33;
 
 import java.util.Objects;
 import java.util.function.BiFunction;
