@@ -1,4 +1,4 @@
-package module35;
+package module35_CompositionOfFunction;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

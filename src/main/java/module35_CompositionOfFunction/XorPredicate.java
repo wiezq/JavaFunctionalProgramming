@@ -1,7 +1,5 @@
-package module35;
+package module35_CompositionOfFunction;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.function.Predicate;
 
 public class XorPredicate {

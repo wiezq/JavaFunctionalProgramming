@@ -1,12 +1,10 @@
-package module34;
+package module34_StandardFunctionalInterface;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
-import java.util.function.LongPredicate;
-import java.util.function.BiPredicate;
 
 class Main {
 

@@ -1,4 +1,4 @@
-package module33;
+package module33_MethodReference;
 
 import java.util.Objects;
 import java.util.function.BiFunction;

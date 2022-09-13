@@ -1,4 +1,4 @@
-package module32;
+package module32_LamdaExpression;
 
 import java.util.Scanner;
 

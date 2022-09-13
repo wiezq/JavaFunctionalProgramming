@@ -1,4 +1,4 @@
-package module34;
+package module34_StandardFunctionalInterface;
 
 import java.util.function.*;
 

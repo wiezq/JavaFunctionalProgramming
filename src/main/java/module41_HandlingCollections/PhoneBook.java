@@ -1,4 +1,4 @@
-package module41;
+package module41_HandlingCollections;
 
 import java.util.*;
 import java.util.stream.Collectors;
